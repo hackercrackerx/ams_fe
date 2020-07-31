@@ -9,7 +9,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.14.0"
+    "nuxt": "^2.14.0",
+    "@nuxtjs/auth": "^4.8.5",
+    "@nuxtjs/axios": "^5.9.0",
+    "@vue/composition-api": "^0.3.4",
+    "dayjs": "^1.8.29"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.2"
